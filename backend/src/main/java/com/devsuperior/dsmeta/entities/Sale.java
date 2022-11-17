@@ -1,4 +1,4 @@
-package com.devsuperior.dsmeta.config.entities;
+package com.devsuperior.dsmeta.entities;
 
 import java.io.Serializable;
 import java.time.LocalDate;

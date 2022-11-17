@@ -1,4 +1,4 @@
-package com.devsuperior.dsmeta.config.services;
+package com.devsuperior.dsmeta.services;
 
 import java.time.Instant;
 import java.time.LocalDate;
@@ -9,8 +9,8 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
-import com.devsuperior.dsmeta.config.entities.Sale;
-import com.devsuperior.dsmeta.config.repositories.SaleRepository;
+import com.devsuperior.dsmeta.entities.Sale;
+import com.devsuperior.dsmeta.repositories.SaleRepository;
 
 @Service
 public class SaleService {
