@@ -9,7 +9,7 @@ function Header() {
           <img src={logo} alt="DSMeta" />
           <h1>DSMeta</h1>
           <p>
-            Victor
+            By Victor
           </p>
         </div>
       </header>
